@@ -1,8 +1,6 @@
 # Logicando
 
-O Logicando é uma aplicação web simples e divertida para pessoas que estão começando a entender lógica de programação.
-
-Na aplicação, a pessoa usuária pode interagir com uma tela e visualizar a lógica de programação acontecendo na prática.
+O Logicando é uma aplicação web simples e divertida que eu criei para realizar os exercicios de exemplos do livro Javascript Eloquente. Que voce pode ler gratuitamente aqui: [Link do livro](https://braziljs.github.io/eloquente-javascript/)
 
 ## Índice
 
@@ -148,7 +146,7 @@ Consulte a [documentação oficial do GitHub Pages](https://docs.github.com/pt/p
 
 ## Objetivo do projeto
 
-O objetivo do projeto é criar uma experiência clara e acolhedora na qual a pessoa usuária possa interagir com a tela e visualizar, passo a passo, como a lógica de programação acontece. A aplicação usará interações simples e exemplos visuais para facilitar o entendimento.
+O objetivo do projeto é reproduzir os exemplos do livro, criar um bom readme.md, e aplicar conhecimentos.
 
 ## Tecnologias utilizadas
 
